@@ -1,0 +1,20 @@
+/* Add this to your style.css file */
+
+.form-group {
+  margin-bottom: 1rem;
+}
+.navbar-brand {
+  font-style: Impact;
+}
+#signature-pad {
+  border-radius: 5px;
+}
+
+#clear-button {
+  margin-top: 0.5rem;
+}
+
+#font-color,
+#pen-color {
+  margin-top: 1rem;
+}
